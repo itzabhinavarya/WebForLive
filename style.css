@@ -137,7 +137,7 @@ body{
     box-shadow: 0 0 10px orange,0 0 40px orange,0 0 80px orange;
     background-color: #031321;
 }
-@media only screen and (max-width: 550px){
+@media only screen and (max-width: 600px){
 
     body{
         background:whitesmoke;
